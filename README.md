@@ -10,7 +10,7 @@ A mobile-first platform connecting students, parents, and mentors through struct
 
 ### Steps
 
-git clone 
+git clone https://github.com/Aman0-3-0Dixit/mentora_demo.git
 cd mentora
 npm install
 npx expo start
