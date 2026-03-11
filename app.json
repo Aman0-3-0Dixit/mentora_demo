@@ -3,6 +3,7 @@
     "name": "mentora",
     "slug": "mentora",
     "version": "1.0.0",
+    "owner": "boredape03",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
@@ -25,6 +26,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a67a076f-4181-4881-9278-0a47ab9449f3"
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a67a076f-4181-4881-9278-0a47ab9449f3"
+      }
     }
   }
 }
